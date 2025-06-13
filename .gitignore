@@ -1,0 +1,24 @@
+# Python uchun umumiy sozlamalar
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# PyCharm uchun (JetBrains)
+.idea/
+*.iml
+
+# OS tizimiga xos fayllar
+.DS_Store
+Thumbs.db
+
+# Virtual muhitlar
+venv/
+env/
+
+# Log fayllar
+*.log
+
+# Token yoki maxfiy fayllar
+*.env
